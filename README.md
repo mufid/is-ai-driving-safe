@@ -11,3 +11,6 @@ Tesla
 
 - [Tesla on taxi runway](https://twitter.com/Phylan/status/1517507755162148864)
 
+# How Does It Work?
+
+- [TI mmWave Radar](https://www.youtube.com/watch?v=1PkcbE3zrYo)
