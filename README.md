@@ -10,6 +10,8 @@ Non-Tesla
 Tesla
 
 - [Tesla on taxi runway](https://twitter.com/Phylan/status/1517507755162148864)
+- [Tesla does not recognize carriages](https://twitter.com/ISusmelj/status/1558912252119482368)
+- [Tesla on The Dragon](https://twitter.com/BS__Exposed/status/1559211531157520384)
 
 # How Does It Work?
 
