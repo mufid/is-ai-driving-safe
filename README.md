@@ -13,6 +13,10 @@ Tesla
 - [Tesla does not recognize carriages](https://twitter.com/ISusmelj/status/1558912252119482368)
 - [Tesla on The Dragon](https://twitter.com/BS__Exposed/status/1559211531157520384)
 
+# Comparison
+
+- [Auto-park system: Audi, Ford, BMW, Tesla](https://www.youtube.com/watch?v=nsb2XBAIWyA)
+
 # How Does It Work?
 
 - [TI mmWave Radar](https://www.youtube.com/watch?v=1PkcbE3zrYo)
