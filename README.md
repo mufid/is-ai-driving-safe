@@ -5,7 +5,8 @@ Non-Tesla
 - 2015 [Ford F150 - Adaptive Cruise Malfunctions - Scary](https://www.f150forum.com/f118/adaptive-cruise-malfunctions-scary-299485/index2/)
 - 2019 [ACC problems coming out of tunnels at night?](https://www.audiworld.com/forums/s4-b9-platform-discussion-214/acc-problems-coming-out-tunnels-night-2979358/)
 - 2019 [The cruise control malfunctioned on the 22-year-old Emirati motorist](https://gulfnews.com/uae/transport/cruise-control-crisis-uae-driver-saved-at-135-kmh-1.1569907182194)
-- 2023 [Malaysia Honda Sensing Failure](https://www.instagram.com/p/CsSl6-ag1S8/)
+- 2022 [Malaysia Honda Sensing Failure (Pedal Mismatch)](https://youtu.be/_bJjQGMTm0k?feature=shared)
+- 2023 [Malaysia Honda Sensing Failure (CMBS)](https://www.instagram.com/p/CsSl6-ag1S8/)
 
 Tesla
 
